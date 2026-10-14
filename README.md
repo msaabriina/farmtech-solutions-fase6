@@ -1,7 +1,7 @@
-# FIAP
+# FIAP - Faculdade de Informática e Administração Paulista
 
 <p align="center">
-<a href="https://www.fiap.com.br/"><img src="assets/logo-fiap.png" alt="FIAP - Faculdade de Informática e Administração Paulista" border="0" width=40% height=40%></a>
+<a href= "https://www.fiap.com.br/"><img src="assets/logo-fiap.png" alt="FIAP - Faculdade de Informática e Admnistração Paulista" border="0" width=40% height=40%></a>
 </p>
 
 <br>
@@ -78,8 +78,8 @@ Comparamos as três em facilidade de uso, precisão, tempo de treino e tempo de 
 
 ## 🎥 Vídeos demonstrativos
 
-- [Vídeo Entrega 1 — YOLO treinamento e detecção]([a gravar])
-- [Vídeo Entrega 2 — Comparação das três abordagens]([a gravar])
+- [Vídeo Entrega 1 — YOLO treinamento e detecção](https://youtu.be/5UqBSDhweBQ)
+- [Vídeo Entrega 2 — Comparação das três abordagens](https://youtu.be/W57dA_18zZ8)
 
 ## 🗃 Histórico de lançamentos
 
